@@ -1,0 +1,8 @@
+tensorflow>=2.15
+opencv-python>=4.5
+numpy>=1.18
+pandas>=1.0
+matplotlib>=3.2
+seaborn>=0.10
+scikit-learn>=1.0
+pillow>=9.0
